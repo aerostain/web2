@@ -136,6 +136,10 @@ a{
 }
 
 @media(max-width:600px){
+    body{
+    background-color: brown;
+    }
+
     .cover{
         height: 40vh;
     }
